@@ -1,6 +1,4 @@
----
-description: Shield Development
----
+
 
 # Project Black Ops 4
 
