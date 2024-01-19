@@ -1,6 +1,6 @@
 # Playing Online
 
-Enter the ip of the server `Change Ip Adress`. [connecting-to-a-server.md](connecting-to-a-server.md "mention")
+Enter the ip of the server `Change Ip Address`. [connecting-to-a-server.md](connecting-to-a-server.md "mention")
 
 Using the launcher select `Online`
 
