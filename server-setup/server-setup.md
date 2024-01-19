@@ -1,5 +1,5 @@
 ---
-description: How to setup up the server.
+How to setup up the server.
 ---
 
 # Server Setup
