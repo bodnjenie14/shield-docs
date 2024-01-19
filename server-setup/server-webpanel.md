@@ -1,5 +1,5 @@
 ---
-description: Server webpanel instructions.
+Server webpanel instructions.
 ---
 
 # Server Webpanel
@@ -16,9 +16,9 @@ Open [http://localhost:8080/](http://localhost:8080/).
 
 <figure><img src="../.gitbook/assets/Webpannel small most important explanation.png" alt=""><figcaption></figcaption></figure>
 
-## Change The Server Acsess
+## Change The Server Access
 
-&#x20;Edit the project-bo4.json if you want to change the access ip to limit people connecting to the web server
+&#x20;Edit the project-bo4.json if you want to change the access ip to limit people connecting to the webpannel.
 
 ```
 "httpserver": {
