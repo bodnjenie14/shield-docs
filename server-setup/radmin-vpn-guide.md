@@ -16,7 +16,7 @@ Download Radmin vpn [here.](https://www.radmin-vpn.com/)
 
 Install Radmin VPN on the local computer.
 
-Create network: Press "Create network" button. Set Network name and Password.
+Create network: Press `Create network` button. Set Network name and Password.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
