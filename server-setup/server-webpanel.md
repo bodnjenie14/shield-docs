@@ -33,8 +33,6 @@ description: Server webpanel instructions.
 
 # Server Webpanel
 
-
-
 ## Managing The Server
 
 Open [http://localhost:8080/](http://localhost:8080/).
@@ -47,7 +45,7 @@ Open [http://localhost:8080/](http://localhost:8080/).
 
 ## Change The Server Acsess
 
-&#x20;Edit the project-bo4.json if you want to change the access ip to limit people connecting to the web server
+Edit the project-bo4.json if you want to change the access ip to limit people connecting to the webpanel.
 
 ```
 "httpserver": {
