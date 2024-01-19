@@ -66,7 +66,7 @@ Launch the software and press "Join network" button. Enter Network name and Pass
 
 Enter network and password you created.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 In the Project bo4`Launcher` connect the remote pc to the host ip address displayed in radmin.
 
