@@ -8,7 +8,7 @@ description: How to play with radmin vpn.
 
 #### Host Pc&#x20;
 
-(This is the pc thats hosting the server.
+(This is the pc thats hosting the server)
 
 
 
