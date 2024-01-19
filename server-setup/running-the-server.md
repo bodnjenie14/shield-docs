@@ -1,5 +1,5 @@
 ---
-description: How to run the server.
+How to run the server.
 ---
 
 # Running The Server
