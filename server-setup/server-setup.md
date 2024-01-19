@@ -35,9 +35,9 @@ description: How to setup up the server.
 
 Install DwServer installer from [here](https://cdn.discordapp.com/attachments/1163956866309697588/1170755715497988227/Bo4\_Deamonware\_Server\_Installer.msi?ex=65a4063a\&is=6591913a\&hm=b61c299d67c09cc565dd2397650749eb6af9718addc92f6144436ba0ac4f1e81&) .
 
-Run setup.exe.&#x20;
+Run `Bo4_Deamonware_Server_Installer.msi`
 
-Make sure enable firewall rules is ticked.
+Make sure to tick both cases.
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 143135.png" alt=""><figcaption></figcaption></figure>
 

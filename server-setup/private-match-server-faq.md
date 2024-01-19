@@ -52,19 +52,21 @@ description: Frequantly asked questions regarding the server.
 
 # Private Match / Server Faq
 
+## Server Emulator
+
 > What is this used for?
 
 This is used to host a private server so that trusted people can connect to you. It is managed by a webpanel.
 
-> What Languages Are Supported ?
+> What Languages are Supported ?
 
 All the languages the base game supports. (The server will download lpc on player connect)
 
 > Can i play using `radmin` an `zero tier`
 
-Yes. Open Radmin / Zerotier and connect you and yourself to the same network, to play use the server emulator's host ip from Radmin / Zerotier in `project-bo4.json`
+Yes.  [radmin-vpn-guide.md](radmin-vpn-guide.md "mention")
 
-> What can't it do? What are the issues?
+> What can't it do? What are the issues ?
 
 For now, a few issues are known,
 
@@ -72,6 +74,6 @@ For now, a few issues are known,
 
 _Example_: you can have one lobby with Blood of the Dead, one lobby with IX, but not 2 lobbies with Blood the dead.
 
-* It can't automatically disband a lobby after use, you need to disband the lobby manually on the webpanel.
+* It can't automatically disband a lobby after you're done playing, you need to disband the lobby manually on the webpanel.
 * Stats and unlocks dont work properly.
 
