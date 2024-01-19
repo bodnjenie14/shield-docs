@@ -1,5 +1,5 @@
 ---
-description: How to play with radmin vpn.
+How to play with radmin vpn.
 ---
 
 # Radmin VPN Guide
