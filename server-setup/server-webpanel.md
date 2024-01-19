@@ -1,5 +1,34 @@
 ---
-Server webpanel instructions.
+'0': S
+'1': e
+'2': r
+'3': v
+'4': e
+'5': r
+'6': ' '
+'7': w
+'8': e
+'9': b
+'10': p
+'11': a
+'12': 'n'
+'13': e
+'14': l
+'15': ' '
+'16': i
+'17': 'n'
+'18': s
+'19': t
+'20': r
+'21': u
+'22': c
+'23': t
+'24': i
+'25': o
+'26': 'n'
+'27': s
+'28': .
+description: Server webpanel instructions.
 ---
 
 # Server Webpanel
@@ -16,9 +45,9 @@ Open [http://localhost:8080/](http://localhost:8080/).
 
 <figure><img src="../.gitbook/assets/Webpannel small most important explanation.png" alt=""><figcaption></figcaption></figure>
 
-## Change The Server Access
+## Change The Server Acsess
 
-&#x20;Edit the project-bo4.json if you want to change the access ip to limit people connecting to the webpannel.
+&#x20;Edit the project-bo4.json if you want to change the access ip to limit people connecting to the web server
 
 ```
 "httpserver": {
