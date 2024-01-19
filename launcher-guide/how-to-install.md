@@ -1,18 +1,14 @@
 ---
-description: How to install the shield launcher
+How to install the shield launcher
 ---
 
-# How To Install
 
-## How To Install The Launcher
 
-Download Launcher From [useful-links.md](../useful-infomation/useful-links.md "mention")
+Download the launcher from [useful links](../useful-infomation/useful-links.md "mention")
 
-Open the `zip` file .
+Open the `zip` file.
 
-Extract the contents of the zip file&#x20;
-
-Into your `blackops4` folder.
+Extract the contents of the zip file into your `Black Ops 4` folder.
 
 
 

@@ -1,22 +1,19 @@
 ---
-description: How to connnect to a server using the launcher
+How to connnect to a server using the launcher
 ---
 
-# Connecting To A Server
 
-### How To Connect To A Server Using Launcher
-
-Using launcher select `Change Ip Address`
+Using the launcher select `Change Ip Address`
 
 Enter the ip of choice and press `ok`
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 140818.png" alt=""><figcaption></figcaption></figure>
 
-Then press  `online`
+Then press  `Online`
 
 ***
 
-### How To Connect To A Server Manually&#x20;
+# Connect To A Server Manually
 
 Open the file `project-bo4.json` in your Black ops 4 installation directory, At the lines:
 

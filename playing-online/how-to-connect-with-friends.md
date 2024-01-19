@@ -1,14 +1,13 @@
 ---
-description: How to join lobbys.
+How to join lobbys.
 ---
 
-# How To Connect With Friends
-
-### How to host a game with multiple players
 
 **Only** the player that wants to be host should search a public game.
 
-Once the lobby has been created, the other players can search for the public game.
+Do no search a lobby at the same time as your friends
+
+Once the lobby has been created the other players can search for the public game, as seen in the red square wait for it to say waiting for players.
 
 
 
@@ -16,12 +15,12 @@ Once the lobby has been created, the other players can search for the public gam
 
 ## Things To Consider.
 
-* Host should have the better nat type
+* Host should preferably have an Open NAT type.
 * You can't host multiple instances of the same lobby.
 
 _Example_: you can have one lobby with Blood of the Dead, one lobby with IX, but not 2 lobbies with Blood the dead.
 
-* It can't automatically disband a lobby after use, you need to disband the lobby manually on the webpanel.
+* It can't automatically disband a lobby after use, you need to disband the lobby manually on the [webpanel](server-setup/server-webpanel.md"mention").
 
 
 
