@@ -1,3 +1,7 @@
+---
+description: How to play online
+---
+
 # Playing Online
 
 Enter the ip of the server `Change Ip Address`. [connecting-to-a-server.md](connecting-to-a-server.md "mention")
