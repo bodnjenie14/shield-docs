@@ -1,3 +1,7 @@
+---
+description: how to play project bo4
+---
+
 # How To Play
 
 ### How to play
