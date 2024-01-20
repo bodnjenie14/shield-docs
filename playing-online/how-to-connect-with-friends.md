@@ -1,3 +1,7 @@
+---
+description: How To Connect With Friends
+---
+
 # How To Connect With Friends
 
 **Only** the player that wants to be host should search a public game.

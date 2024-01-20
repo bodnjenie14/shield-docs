@@ -1,5 +1,5 @@
 ---
-description: how to play project bo4
+description: How to play project bo4
 ---
 
 # How To Play

@@ -1,3 +1,7 @@
+---
+description: Connecting client to server
+---
+
 # Connecting To A Server
 
 Using the launcher select `Change Ip Address`

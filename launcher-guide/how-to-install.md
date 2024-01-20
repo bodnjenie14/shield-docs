@@ -1,3 +1,7 @@
+---
+description: How to install launcher
+---
+
 # How To Install
 
 Download the launcher from [useful-links.md](../useful-infomation/useful-links.md "mention")
