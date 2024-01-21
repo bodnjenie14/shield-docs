@@ -2,7 +2,7 @@
 description: How to setup up the server.
 ---
 
-# Server Setup
+# How To Set Up The Server
 
 ## Automatic Setup
 
@@ -10,9 +10,9 @@ Install DwServer installer from [here](https://cdn.discordapp.com/attachments/11
 
 Run `Bo4_Deamonware_Server_Installer.msi`
 
-Make sure to tick both cases.
-
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 143135.png" alt=""><figcaption></figcaption></figure>
+
+Make sure to tick both cases.
 
 ***
 
