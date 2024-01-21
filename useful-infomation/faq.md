@@ -34,7 +34,7 @@ Most things are unlocked from the start . Progression not working yet.&#x20;
 
 > &#x20;**Can i connect to a server with my friends using any kind of LAN software (Radmin, Hamachi, Gameranger, Zerotier) ?**
 
-Yes ! follow [Broken link](broken-reference "mention")
+Yes ! follow [radmin-vpn-guide.md](../server-setup/radmin-vpn-guide.md "mention")
 
 > &#x20;**When is X feature gonna be added ?**
 

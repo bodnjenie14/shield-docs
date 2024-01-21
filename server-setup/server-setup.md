@@ -18,7 +18,7 @@ Make sure to tick both cases.
 
 ## Manual Setup
 
-Download server from [here](https://cdn.discordapp.com/attachments/1163956866309697588/1164304363515293696/DW\_SERVER.rar?ex=65a83d6f\&is=6595c86f\&hm=e971e176a9679610ec1a7e8d81ca0ba2bebdabe650475b435c3d62aeecb183c1&).
+Download server from [here](https://github.com/bodnjenie14/DWUPDATES/releases/download/2/DW.SERVER.rar).
 
 ### Open ports
 
