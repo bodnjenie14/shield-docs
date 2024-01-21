@@ -9,7 +9,7 @@
 * [Faq](useful-infomation/faq.md)
 
 ## LAUNCHER GUIDE
-
+* [How To Play](launcher-guide/how-to-play.md)
 * [How To Install](launcher-guide/how-to-install.md)
 * [Playing Offline](launcher-guide/playing-offline.md)
 * [Playing Online](launcher-guide/playing-online.md)
