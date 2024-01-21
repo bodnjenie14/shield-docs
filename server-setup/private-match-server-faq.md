@@ -6,7 +6,7 @@ description: Frequantly asked questions regarding the server.
 
 ## Server Emulator
 
-> What is this used for?
+> What is this used for ?
 
 This is used to host a private server so that trusted people can connect to you. It is managed by a webpanel.
 
@@ -14,7 +14,7 @@ This is used to host a private server so that trusted people can connect to you.
 
 All the languages the base game supports. (The server will download lpc on player connect)
 
-> Can i play using `radmin` an `zero tier`
+> Can i play using `Radmin VPN` or `Zero tier`.
 
 Yes.  [radmin-vpn-guide.md](radmin-vpn-guide.md "mention")
 
@@ -26,6 +26,6 @@ For now, a few issues are known,
 
 _Example_: you can have one lobby with Blood of the Dead, one lobby with IX, but not 2 lobbies with Blood the dead.
 
-* It can't automatically disband a lobby after you're done playing, you need to disband the lobby manually on the webpanel.
+* It can't automatically disband a lobby after you're done playing,  you need to disband the lobby manually on the webpanel.
 * Stats and unlocks dont work properly.
 

@@ -12,7 +12,7 @@ For manual server installation run `server.exe` (located where you installed the
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 151356.png" alt=""><figcaption></figcaption></figure>
 
-The webpanel can be opened at the address [http://localhost:8080/](http://localhost:8080/). (default adress for the host)
+The webpanel can be opened at the address [http://localhost:8080/](http://localhost:8080/).  (default address for the host)
 
 **NB:** If you are on a VPS, you need to have forward the TCP port 8080 to access the webserver on another network.&#x20;
 
