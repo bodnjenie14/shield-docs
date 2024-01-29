@@ -12,6 +12,8 @@ Once the lobby has been created the other players can search for the public game
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 142122.png" alt=""><figcaption></figcaption></figure>
 
+To force start a Multiplayer / Zombies game type  `lobbylaunchgame`, and to start a blackout game `startwzmatch`.
+
 ### Things To Consider.
 
 * Host should preferably have an Open NAT type.
