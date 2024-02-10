@@ -17,5 +17,5 @@ description: Commands to start games with not enough players
 
 ## Blackout
 
-* `startwzmatch`.
+* `startwzmatch`
 
