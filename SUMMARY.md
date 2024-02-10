@@ -19,6 +19,7 @@
 ## PLAYING ONLINE
 
 * [How To Connect With Friends](playing-online/how-to-connect-with-friends.md)
+* [Commands To Start Games](playing-online/commands-to-start-games.md)
 
 ## SERVER SETUP
 
