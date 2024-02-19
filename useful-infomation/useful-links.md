@@ -22,6 +22,12 @@ Can be found [here.](https://github.com/bodnjenie14/Project\_-bo4\_Launcher)
 
 ***
 
+## Demonware Server Emulator
+
+Download DwServer [here](https://cdn.discordapp.com/attachments/1163956866309697588/1170755715497988227/Bo4\_Deamonware\_Server\_Installer.msi?ex=65a4063a\&is=6591913a\&hm=b61c299d67c09cc565dd2397650749eb6af9718addc92f6144436ba0ac4f1e81&) .
+
+***
+
 ## Discord Server
 
 Discord invite link[ here.](https://discord.gg/AXECAzJJGU)
