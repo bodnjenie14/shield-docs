@@ -12,7 +12,7 @@ Can be found [here.](https://github.com/project-bo4/shield-development/)
 
 ## Launcher Download
 
-Download here.
+Download [here](https://github.com/bodnjenie14/Project\_-bo4\_Launcher/releases/download/release/Project\_BO4\_Launcher\_Update\_1.0.13.1.zip).
 
 
 
