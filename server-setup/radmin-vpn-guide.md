@@ -6,6 +6,8 @@ description: How to play with radmin vpn.
 
 ## Playing With Radmin VPN.
 
+### You need to be hosting the dwserver for radmin to work [Broken link](broken-reference "mention")
+
 #### Host Pc&#x20;
 
 (This is the pc thats hosting the server. [Broken link](broken-reference "mention"))
