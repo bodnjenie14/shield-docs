@@ -24,7 +24,7 @@ Can be found [here.](https://github.com/bodnjenie14/Project\_-bo4\_Launcher)
 
 ## Demonware Server Emulator
 
-Download DwServer [here](https://github.com/bodnjenie14/DWUPDATES/releases/download/4.1.1.1/Bo4\_Deamonware\_Server\_Installer.msi) .
+Download DwServer [here](https://github.com/bodnjenie14/DWUPDATES/releases/download/4.1.1.5/Bo4\_Deamonware\_Server\_Installer.msi) .
 
 ***
 
