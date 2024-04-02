@@ -18,13 +18,13 @@ Make sure to tick both cases.
 
 ## Manual Setup
 
-Download server from [here](https://github.com/bodnjenie14/DWUPDATES/releases/download/2/DW.SERVER.rar).
+Download server from [here.](https://github.com/bodnjenie14/DWUPDATES/releases/download/4.1.1.5/DW.SERVER.rar)
 
 ### Open ports
 
 #### Automatic
 
-Download `FIREWALL RULES.BAT`  [here.](https://cdn.discordapp.com/attachments/1160535315648356437/1197963063492624525/FIREWALL\_RULES.BAT?ex=65bd2d0b\&is=65aab80b\&hm=5afe3b2d5bbc28f8c753d48d1252da20b4add5540cae1830c3d3971a8043985e&)
+Download `FIREWALL RULES.BAT`  [here.](https://github.com/bodnjenie14/DWUPDATES/releases/download/4.1.1.5/FIREWALL.RULES.BAT)
 
 Run the `FIREWALL RULES.BAT` file as administrator.&#x20;
 
