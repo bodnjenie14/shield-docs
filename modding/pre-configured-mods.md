@@ -22,9 +22,9 @@ description: Some released mods for shield.
 
 [https://github.com/NotNierPea/T8-EnhancementMod](https://github.com/NotNierPea/T8-EnhancementMod)
 
-## Enachment Mod
+## Enhancement Mod
 
-> bank box fixed and more
+> bank, customizable zombie counter, config to enable/disable mods, and more
 
 [https://github.com/NotNierPea/T8-EnhancementMod](https://github.com/NotNierPea/T8-EnhancementMod)
 
