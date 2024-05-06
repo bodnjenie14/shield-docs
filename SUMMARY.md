@@ -34,4 +34,4 @@
 * [Getting Started With Modding](modding/getting-started-with-modding.md)
 * [Lua](modding/lua.md)
 * [Extra Modding Notes](modding/extra-modding-notes.md)
-* [Pre Configured Mods](modding/pre-configured-mods.md)
+* [Released Mods](modding/pre-configured-mods.md)
