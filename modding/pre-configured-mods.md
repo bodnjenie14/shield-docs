@@ -20,7 +20,7 @@ description: Some released mods for shield.
 
 > inspired by chaos mod in bo3
 
-[https://github.com/NotNierPea/T8-EnhancementMod](https://github.com/NotNierPea/T8-EnhancementMod)
+[https://github.com/NotNierPea/RushMod-T8](https://github.com/NotNierPea/RushMod-T8)
 
 ## Enhancement Mod
 
