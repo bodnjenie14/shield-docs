@@ -30,7 +30,7 @@ Yes ! But no aim assist for now, that is being worked on.
 
 > &#x20;**Can i max my stats / unlockall ?**
 
-Most things are unlocked from the start . Progression not working yet.&#x20;
+Most things can be unlocked using the `Unlock All` or `Unlock` options in the game menu. Progression works in Online and Offline modes.&#x20;
 
 > &#x20;**Can i connect to a server with my friends using any kind of LAN software (Radmin, Hamachi, Gameranger, Zerotier) ?**
 
