@@ -8,7 +8,7 @@ description: Server webpanel instructions.
 
 Admin Page: [http://localhost:1234/](http://localhost:8080/)
 
-1: Nat type and kick players
+1: NAT type and kick players
 
 2:Disband lobbys
 
@@ -22,7 +22,7 @@ For public hosting use [http://localhost:8080/](http://localhost:8080/) this dis
 
 ## Change The Server Access
 
-Edit the project-bo4.json if you want to change the access ip to limit people connecting to the webpanel.
+Edit the project-bo4.json if you want to change the access IP to limit people connecting to the webpanel.
 
 ```
 "httpserver": {
