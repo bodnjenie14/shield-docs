@@ -4,13 +4,13 @@ description: Some released mods for shield.
 
 # Released Mods
 
-## Atain Menu
+## Atian Menu
 
 > mod menu for all modes
 
 [https://github.com/ate47/t8-atian-menu/releases/tag/latest\_build](https://github.com/ate47/t8-atian-menu/releases/tag/latest\_build)
 
-## Ates collection
+## Ate's collection
 
 > custom skins , ee tool for custom games
 
