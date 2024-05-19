@@ -4,7 +4,7 @@
 
 (Example shows `Enhancement Mod` courtesy of `NotNierPea`)
 
-1. Download the desired mod from the Shield Docs #Released Mods section, and extract the contents.
+1. Download the desired mod from the Shield Docs [pre-configured-mods.md](pre-configured-mods.md "mention") section, and extract the contents.
 
 ![image](https://github.com/WrekLess/shield-docs/assets/9027113/574abd63-db64-458f-a245-70528769df46)
 
@@ -18,7 +18,7 @@
 
 3. Launch game and enjoy!
 
-Note: 
+Note:
 
-- If in-game while adding mods to the game folder, you can type `reload_mods` in Console to Load it without Restarting!
-- Some mods conflict with each other and will crash the game.
+* If in-game while adding mods to the game folder, you can type `reload_mods` in Console to Load it without Restarting!
+* Some mods conflict with each other and will crash the game.
