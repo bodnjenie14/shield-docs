@@ -6,7 +6,7 @@
 
 1. Download the desired mod, and extract the contents.
 
-![Screenshot 2024-05-19 103402](https://github.com/WrekLess/shield-docs/assets/9027113/5b434fb4-c55c-4b3b-8b53-2289ec25e9a3)
+![image](https://github.com/WrekLess/shield-docs/assets/9027113/a5e8c694-de6e-44cb-ab92-4379527e5e9e)
 
 ![Screenshot 2024-05-19 103735](https://github.com/WrekLess/shield-docs/assets/9027113/e2a69a8a-4e29-4d63-9f90-8885fd893d60)
 
