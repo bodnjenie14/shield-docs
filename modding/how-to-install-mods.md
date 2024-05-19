@@ -4,7 +4,7 @@
 
 (Example shows `Enhancement Mod` courtesy of `NotNierPea`)
 
-1. Download the desired mod, and extract the contents.
+1. Download the desired mod from the Shield Docs `Released Mods` section, and extract the contents.
 
 ![image](https://github.com/WrekLess/shield-docs/assets/9027113/a5e8c694-de6e-44cb-ab92-4379527e5e9e)
 
