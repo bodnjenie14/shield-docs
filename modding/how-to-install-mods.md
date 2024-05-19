@@ -2,7 +2,7 @@
 
 ### Mod Installation
 
-(Example shows `Enhancement Mod` courtesy of `NotNierPea`)
+(Example shows `Enhancement Mod` courtesy of (`NotNierPea`)
 
 1. Download the desired mod from the Shield Docs [pre-configured-mods.md](pre-configured-mods.md "mention") section, and extract the contents.
 
