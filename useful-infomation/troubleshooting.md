@@ -16,3 +16,8 @@ description: Troubleshooting Errors.
 
 &#x20;⁠ This is likely due to Windows Defender or your antivirus deleting the d3d11.dll file that the bo4-launcher installs to the root of your bo4 game directory. To resolve this, either add an exception for the file or the game directory to avoid future deletions. Then, restore the file from the Recycle Bin and try again.
 
+> **I get this `Fatal error_Error code: 402296948` when I try to play the game by clicking `Online` or `Offline`, how do I fix?**
+
+![Crash - Fatal Error](https://github.com/WrekLess/shield-docs/assets/9027113/b2dcdc65-1844-448d-9f64-29998eb9dd80)
+
+&#x20;⁠ The game crashed because you are probably missing files. Try verifying the game files using the Battlenet launcher.
