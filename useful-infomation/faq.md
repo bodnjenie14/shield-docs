@@ -2,7 +2,7 @@
 description: Frequantly asked questions.
 ---
 
-# Faq
+# FAQ
 
 > **How can I get access to the client?**
 
@@ -43,6 +43,14 @@ We don't know, the DEV team is very small as of now only 1 person works on it us
 > **Can I add bots to Blackout?**
 
 &#x20;⁠ No.
+
+> **Where can I download the game?**
+
+&#x20;⁠ You must purchase and download the game through Battlenet.
+
+> **Friend(s) can't join my lobby. Why?**
+
+&#x20;⁠ If you copied the files, you may have the same xuid. Check this also, if you have the same xuid, change a few didgits and save. The xuid can be found at gamefolder/project-bo4.json.
 
 > &#x20;**I have a suggestion!**
 
