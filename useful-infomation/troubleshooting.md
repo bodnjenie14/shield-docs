@@ -30,6 +30,6 @@ description: Troubleshooting Errors.
 
 > **I get this `ERROR_server script error can't allocate more variables` starting Voyage of the Damned and using BlackOps4_shield_atianmenu in the mods folder, how do I fix?**
 
-![Bnet Error](https://github.com/WrekLess/shield-docs/assets/9027113/5695182a-ae45-4c48-b052-4c2e152fb298)
+![Script Error](https://github.com/WrekLess/shield-docs/assets/9027113/07a8eafa-443d-42f8-9112-0be32063d321)
 
 &#x20;⁠ It’s a common bug, but needs a dev to write a profiler. Solution is TBD.
