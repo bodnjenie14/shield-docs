@@ -50,7 +50,7 @@ We don't know, the DEV team is very small as of now only 1 person works on it us
 
 > **Friend(s) can't join my lobby. Why?**
 
-&#x20;⁠ If you copied the files, you may have the same xuid. Check this also, if you have the same xuid, change a few didgits and save. The xuid can be found at 'gamefolder/project-bo4.json'.
+&#x20;⁠ If you copied the files, you may have the same xuid. Check this also, if you have the same xuid, change a few didgits and save. The xuid can be found at gamefolder/project-bo4.json.
 
 > &#x20;**I have a suggestion!**
 
