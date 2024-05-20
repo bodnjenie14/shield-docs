@@ -32,4 +32,4 @@ description: Troubleshooting Errors.
 
 ![Script Error](https://github.com/WrekLess/shield-docs/assets/9027113/07a8eafa-443d-42f8-9112-0be32063d321)
 
-&#x20;⁠ It’s a common bug, but needs a dev to write a profiler. Solution is TBD.
+&#x20;⁠ It’s a common bug, but needs a dev to write a profiler. Solution is to remove the mod. Fix is TBD.
