@@ -21,3 +21,9 @@ description: Troubleshooting Errors.
 ![Crash - Fatal Error](https://github.com/WrekLess/shield-docs/assets/9027113/b2dcdc65-1844-448d-9f64-29998eb9dd80)
 
 &#x20;⁠ The game crashed because you are probably missing files. Try verifying the game files using the Battlenet launcher.
+
+> **I get this `Fatal error_Error code: 140707235801993` when I joined a public lobby on multiplayer and the game crashed, how do I fix?**
+
+![2](https://github.com/WrekLess/shield-docs/assets/9027113/26a52238-c1dc-4d04-819f-4af4c82d81e1)
+
+&#x20;⁠ The game crashed because you are probably missing files. Try verifying the game files using the Battlenet launcher.
