@@ -7,6 +7,7 @@
 * [Road Map & Features](useful-infomation/road-map-and-features.md)
 * [Useful Links](useful-infomation/useful-links.md)
 * [Faq](useful-infomation/faq.md)
+* [Troubleshooting](useful-infomation/troubleshooting.md)
 
 ## LAUNCHER GUIDE
 
