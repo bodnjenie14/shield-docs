@@ -10,6 +10,8 @@ Enter the ip of choice and press `ok`
 
 <figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 140818.png" alt=""><figcaption></figcaption></figure>
 
+![Change_IP_Address](https://github.com/WrekLess/shield-docs/assets/9027113/680788bb-69a2-4d30-9f0e-5da09c719b72)
+
 Then press `Online`
 
 ***
