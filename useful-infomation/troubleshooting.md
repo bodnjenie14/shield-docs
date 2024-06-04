@@ -1,5 +1,5 @@
 ---
-description: Troubleshooting Errors.
+description: Troubleshooting Errors
 ---
 
 # Troubleshooting
