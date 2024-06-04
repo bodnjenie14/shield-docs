@@ -14,4 +14,7 @@ Download the launcher from [useful-links.md](../useful-infomation/useful-links.m
 7. Click on `Ok`.
 
 
+![WindowsDefender_Exclude Folder](https://github.com/WrekLess/shield-docs/assets/9027113/9d2e4208-8677-4aa2-be6e-e2f864bcdbf1)
+
+
 Enjoy `project-bo4`
