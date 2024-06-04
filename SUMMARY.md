@@ -8,6 +8,7 @@
 * [Useful Links](useful-infomation/useful-links.md)
 * [Faq](useful-infomation/faq.md)
 * [Troubleshooting](useful-infomation/troubleshooting.md)
+* [How to add game folder exception in Windows Defender](useful-infomation/how-to-add-game-folder-exception-in-windows-defender.md)
 
 ## LAUNCHER GUIDE
 
