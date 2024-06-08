@@ -31,3 +31,7 @@ Download DwServer [here](https://github.com/bodnjenie14/DWUPDATES/releases) .
 ## Discord Server
 
 Discord invite link[ here.](https://discord.gg/AXECAzJJGU)
+
+## Source For Docs
+
+Can be found here[ here.](https://github.com/bodnjenie14/shield-docs)
