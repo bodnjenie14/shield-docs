@@ -17,5 +17,6 @@ description: Commands to start games with not enough players
 
 ## Blackout
 
-* `startwzmatch`
-
+* `startwzmatch` - starts match
+* `set use_wz_escape 1` - change to alcatraz map day
+* `set use_wz_escape_alt 1` - change to alcatraz map night
