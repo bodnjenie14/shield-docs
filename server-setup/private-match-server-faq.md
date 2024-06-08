@@ -27,5 +27,4 @@ For now, a few issues are known,
 _Example_: you can have one lobby with Blood of the Dead, one lobby with IX, but not 2 lobbies with Blood the dead.
 
 * It can't automatically disband a lobby after you're done playing,  you need to disband the lobby manually on the webpanel.
-* Stats and unlocks dont work properly.
 
