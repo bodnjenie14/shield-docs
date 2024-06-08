@@ -20,11 +20,10 @@ Yes.  [radmin-vpn-guide.md](radmin-vpn-guide.md "mention")
 
 > What can't it do? What are the issues ?
 
-For now, a few issues are known,
+Known Issues (for now):
 
 * It can't host multiple instances of the same lobby.
 
 _Example_: you can have one lobby with Blood of the Dead, one lobby with IX, but not 2 lobbies with Blood the dead.
 
-* It can't automatically disband a lobby after you're done playing,  you need to disband the lobby manually on the webpanel.
 
