@@ -8,7 +8,7 @@ description: How to play with radmin vpn.
 
 ### You need to be hosting the dwserver for radmin to work [Broken link](broken-reference "mention")
 
-#### Host Pc&#x20;
+#### Host PC&#x20;
 
 (This is the pc thats hosting the server. [Broken link](broken-reference "mention"))
 
@@ -26,7 +26,7 @@ In the Project bo4`Launcher` connect the host pc to `127.0.0.1`  [connecting-to-
 
 
 
-#### Remote Pc
+#### Remote PC
 
 (This will be your friends pc)
 
@@ -48,5 +48,5 @@ In the Project bo4`Launcher` connect the remote pc to the host ip address displa
 
 **Only** the player that wants to be host should search a public game.
 
-Once the lobby has been created, the other players can search for the public game.
+Once the lobby has been created, the other players can search for the public game (ensure you are both choosing the same game mode).
 
