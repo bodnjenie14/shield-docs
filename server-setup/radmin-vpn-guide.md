@@ -6,14 +6,14 @@ description: How to play with radmin vpn.
 
 ## Playing With Radmin VPN.
 
-### You need to be hosting the dwserver for radmin to work, [download it from here.](https://github.com/bodnjenie14/DWUPDATES/releases/)
+### You need to be hosting the dwserver for radmin to work, download it from [ here.](https://github.com/bodnjenie14/DWUPDATES/releases/)
 
 #### Host PC&#x20;
 
 (This is the pc thats hosting the server)
 
 
-1. Download radmin vpn [here.](https://www.radmin-vpn.com/)
+1. Download radmin VPN [here.](https://www.radmin-vpn.com/)
 
 2. Install Radmin VPN on the local computer.
 
