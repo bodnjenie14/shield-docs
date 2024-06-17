@@ -186,14 +186,26 @@ readjson <dvar> <section/subsection> <key> <type> (defaultvalue) (readonly=true)
 writejson <section/subsection> <key> <value> <type> (path/file.json)
 ```
 
-Note: if path is not specified, it will use project's/shield's json instead.
+Note: if path is not specified, it will use project's/shield's json instead. ``readjson`` can write a value if missing/invalid only if readonly is false. If anything goes wrong it will use the given default value.
 
 Example Usage:
 
 ```
+-- without paths.
 Engine[@"exec"](Engine[@"getprimarycontroller"](), "readjson shield_username identity name string")
 Engine[@"exec"](Engine[@"getprimarycontroller"](), "readjson shield_ui_color lua ui_color uint64_t 0")
 
 Engine[@"exec"](Engine[@"getprimarycontroller"](), "writejson identity name test_username string")
 Engine[@"exec"](Engine[@"getprimarycontroller"](), "writejson demonware ipv4 test_ip string")
+
+-- with paths.
+Engine[@"exec"](Engine[@"getprimarycontroller"](), 'readjson shield_enh_Counter_NumberColor "" Counter_NumberColor uint64_t false false project-bo4/saved/server/EnhancementMain.json')
+Engine[@"exec"](Engine[@"getprimarycontroller"](), 'readjson shield_enh_ZombiesMods "" ZombiesMods bool false false project-bo4/saved/server/EnhancementMain.json')
+
+-- you can also use args like this.
+if dvar_name == "shield_enh_Counter_TextColor" or dvar_name == "shield_enh_Counter_NumberColor" or dvar_name == "shield_enh_Counter_Position" then
+    Engine[@"exec"](Engine[@"getprimarycontroller"](), 'writejson "" ' .. string.gsub(dvar_name, "shield_enh_", "") .. ' ' .. dvar_new_value .. ' uint64_t project-bo4/saved/server/EnhancementMain.json')
+else
+    Engine[@"exec"](Engine[@"getprimarycontroller"](), 'writejson "" ' .. string.gsub(dvar_name, "shield_enh_", "") .. ' ' .. dvar_new_value .. ' bool project-bo4/saved/server/EnhancementMain.json')
+end
 ```
