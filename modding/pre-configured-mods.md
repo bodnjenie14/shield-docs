@@ -16,6 +16,12 @@ description: Some released mods for shield.
 
 [https://github.com/ate47/shield\_mods](https://github.com/ate47/shield\_mods)
 
+## Black ops 4 - Pack a punch mod by ATE
+
+> Pack a punch mod for Black Ops 4
+
+[https://github.com/ate47/bo4-pap-mod/releases/tag/v1.0.0](https://github.com/ate47/bo4-pap-mod/releases/tag/v1.0.0)
+
 ## Rush Mod
 
 > inspired by chaos mod in bo3
