@@ -77,6 +77,8 @@ Localizeentry xasset
 
 With the cache it can be used between players, it can be used to create custom trigger messages.
 
+Note: You only need the cache for things asking for a client-server connection. they are also not needed if its only for Frontend.
+
 ***
 
 #### XAsset redirects
@@ -104,7 +106,7 @@ Using the `redirect` field in the metadata config.
 
 #### GSC/CSC ShieldToJson/ShieldFromJson functions
 
-This allow for things to be saved from game.
+This allow for things to be saved from game using GSC/CSC.
 
 Functions :
 
@@ -167,3 +169,43 @@ But a mod can register custom files in the metadata using
 }
 ```
 
+
+***
+
+#### LUA Reading and Writing JSON
+
+This allow for things to be saved from game using LUA with Dvars (Engine Execute Command).
+
+Functions :
+
+```
+-- reads and return to specified dvar (Arg in () are optional, use section = "" for no section)
+readjson <dvar> <section/subsection> <key> <type> (defaultvalue) (readonly=true) (path/file.json)
+
+-- writes to json, types are: string, bool, int32_t, uint32_t, int64_t, uint64_t. It will auto fix json if bad type or missing
+writejson <section/subsection> <key> <value> <type> (path/file.json)
+```
+
+Note: if path is not specified, it will use project's/shield's json instead. ``readjson`` can write a value if missing/invalid only if readonly is false. If anything goes wrong it will use the given default value.
+
+Example Usage:
+
+```
+-- without paths.
+Engine[@"exec"](Engine[@"getprimarycontroller"](), "readjson shield_username identity name string")
+Engine[@"exec"](Engine[@"getprimarycontroller"](), "readjson shield_ui_color lua ui_color uint64_t 0")
+
+Engine[@"exec"](Engine[@"getprimarycontroller"](), "writejson identity name test_username string")
+Engine[@"exec"](Engine[@"getprimarycontroller"](), "writejson demonware ipv4 test_ip string")
+
+-- with paths.
+Engine[@"exec"](Engine[@"getprimarycontroller"](), 'readjson shield_enh_Counter_NumberColor "" Counter_NumberColor uint64_t false false project-bo4/saved/server/EnhancementMain.json')
+Engine[@"exec"](Engine[@"getprimarycontroller"](), 'readjson shield_enh_ZombiesMods "" ZombiesMods bool false false project-bo4/saved/server/EnhancementMain.json')
+
+-- you can also use args like this.
+if dvar_name == "shield_enh_Counter_TextColor" or dvar_name == "shield_enh_Counter_NumberColor" or dvar_name == "shield_enh_Counter_Position" then
+    Engine[@"exec"](Engine[@"getprimarycontroller"](), 'writejson "" ' .. string.gsub(dvar_name, "shield_enh_", "") .. ' ' .. dvar_new_value .. ' uint64_t project-bo4/saved/server/EnhancementMain.json')
+else
+    Engine[@"exec"](Engine[@"getprimarycontroller"](), 'writejson "" ' .. string.gsub(dvar_name, "shield_enh_", "") .. ' ' .. dvar_new_value .. ' bool project-bo4/saved/server/EnhancementMain.json')
+end
+```
