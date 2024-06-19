@@ -5,15 +5,16 @@
 ## USEFUL INFOMATION
 
 * [Road Map & Features](useful-infomation/road-map-and-features.md)
+* [Client Features](useful-infomation/client-features.md)
 * [Useful Links](useful-infomation/useful-links.md)
 * [Faq](useful-infomation/faq.md)
 * [Troubleshooting](useful-infomation/troubleshooting.md)
-* [How to add game folder exception in Windows Defender](useful-infomation/how-to-add-game-folder-exception-in-windows-defender.md)
 
 ## LAUNCHER GUIDE
 
 * [How To Play](launcher-guide/how-to-play.md)
 * [How To Install](launcher-guide/how-to-install.md)
+* [How to add game folder exception in Windows Defender](launcher-guide/how-to-add-game-folder-exception-in-windows-defender.md)
 * [Playing Offline](launcher-guide/playing-offline.md)
 * [Playing Online](launcher-guide/playing-online.md)
 * [Connecting To A Server](launcher-guide/connecting-to-a-server.md)
