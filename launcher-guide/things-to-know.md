@@ -21,8 +21,6 @@ In order to use the Project-BO4 client, you must own and download the game throu
 `Network:` Broadband Internet connection\
 `Sound Card:` DirectX Compatible\
 
-### Recommended specs:
-
 ### Recommended specs to run the game
 
 `OS:` Windows 10 64-bit\
@@ -32,4 +30,4 @@ In order to use the Project-BO4 client, you must own and download the game throu
 `Video:` NVIDIA GeForce GTX 970 4 GB / GTX 1060 6 GB or Radeon R9 390 / AMD RX 580\
 `DirectX:` Version 11.0 compatible video card or equivalent\
 `Network:` Broadband Internet connection\
-`Sound Card:` DirectX Compatible\
+`Sound Card:` DirectX Compatible
