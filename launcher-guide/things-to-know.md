@@ -12,14 +12,14 @@ In order to use the Project-BO4 client, you must own and download the game throu
 
 ### Minimum requirements to run the game
 
-`OS:`Windows 7 64-Bit or later
-`CPU:`Intel Core i3-4340 or AMD FX-6300 processor
-`RAM:`8GB RAM
-`HDD:`80GB HD space;
-`Video:`NVIDIA GeForce GTX 660 2 GB or Radeon HD 7950 2 GB
-`DirectX:`Version 11.0 compatible video card or equivalent
-`Network:`Broadband Internet connection
-`Sound Card:`DirectX Compatible
+`OS:`Windows 7 64-Bit or later\
+`CPU:`Intel Core i3-4340 or AMD FX-6300 processor\
+`RAM:`8GB RAM\
+`HDD:`80GB HD space\
+`Video:`NVIDIA GeForce GTX 660 2 GB or Radeon HD 7950 2 GB\
+`DirectX:`Version 11.0 compatible video card or equivalent\
+`Network:`Broadband Internet connection\
+`Sound Card:`DirectX Compatible\
 
 ### Recommended specs:
 
