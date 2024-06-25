@@ -13,6 +13,7 @@
 ## LAUNCHER GUIDE
 
 * [How To Play](launcher-guide/how-to-play.md)
+* [Things to Know](launcher-guide/things-to-know.md)
 * [How To Install](launcher-guide/how-to-install.md)
 * [How to add game folder exception in Windows Defender](launcher-guide/how-to-add-game-folder-exception-in-windows-defender.md)
 * [Playing Offline](launcher-guide/playing-offline.md)

@@ -6,36 +6,27 @@ description: How to play with radmin vpn.
 
 ## Playing With Radmin VPN.
 
-### You need to be hosting the dwserver for radmin to work, please see [How to Setup The Server.](https://github.com/bodnjenie14/DWUPDATES/releases/)
+### You need to be hosting the dwserver for radmin to work, please see [server-setup.md](server-setup.md "mention").
 
-#### Host PC&#x20;
+#### Host PC
 
 (This is the pc thats hosting the server, [How to Setup The Server.](https://github.com/bodnjenie14/DWUPDATES/releases/))
 
-
 1. Download radmin VPN [here.](https://www.radmin-vpn.com/)
-
 2. Install Radmin VPN on the local computer.
-
 3. Create network: Press "Create network" button. Set Network name and Password.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-4. In the Project bo4`Launcher` connect the host pc to `127.0.0.1`  [connecting-to-a-server.md](../launcher-guide/connecting-to-a-server.md "mention")
-
-
+4. In the Project bo4`Launcher` connect the host pc to `127.0.0.1` [connecting-to-a-server.md](../launcher-guide/connecting-to-a-server.md "mention")
 
 #### Remote PC
 
 (This will be your friends pc)
 
-
 1. Download radmin VPN [here.](https://www.radmin-vpn.com/)
-
 2. Install Radmin VPN on the remote computer.
-
 3. Launch the software and press "Join network" button. Enter Network name and Password in the dialog box
-
 4. Enter network name and password you created.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
@@ -44,12 +35,10 @@ description: How to play with radmin vpn.
 
 ***
 
-Things to know: 
+Things to know:
 
-- **Only** the player that wants to be host should search a public game.
-
-- Once the lobby has been created, the other players can start to search for the public game.
-
-- Ensure all players are choosing the same game mode.
+* **Only** the player that wants to be host should search a public game.
+* Once the lobby has been created, the other players can start to search for the public game.
+* Ensure all players are choosing the same game mode.
 
 Enjoy Project-BO4!
