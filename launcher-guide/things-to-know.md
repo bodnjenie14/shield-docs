@@ -35,9 +35,8 @@ In order to use the Project-BO4 client, you must own and download the game throu
 
 ### Project-BO4 Pre-Checks
 
-
-`GPU drivers up-to-date?:` Ensure your graphics drivers are up-to-date.\
 `Windows updates:` Ensure your Windows OS is upto date.\
+`GPU drivers up-to-date?:` Ensure your graphics drivers are up-to-date.\
 `Audio drivers up-to-date?:` Ensure your audio drivers are updated.\
 `Does the retail version of the game run on your system?:` Ensure the game properly loads and runs on your system PRIOR to adding the Project-BO4 client.
 
