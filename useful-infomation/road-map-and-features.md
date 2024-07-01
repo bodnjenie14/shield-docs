@@ -12,7 +12,7 @@ CLIENT-SIDE:
 * [x] In-game Interactable Console.
 * [x] Gsc & Lua Modding Support.
 * [x] Fixed Black Screen Bug.
-* [ ] Enable Aim-Assist for Game Controllers.
+* [x] Enable Aim-Assist for Game Controllers.
 * [ ] Miscellaneous Features such as 1st person view fov.
 
 #### SERVER-SIDE:
