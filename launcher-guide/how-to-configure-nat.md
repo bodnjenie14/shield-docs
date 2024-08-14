@@ -4,6 +4,8 @@ description: How to configure NAT for project bo4
 
 # NAT Configuration
 
+![image](https://github.com/user-attachments/assets/c270c4c6-ea09-40e9-b761-09e5075a5bb3)
+
 ### NAT Ports
 
 ### Single Ports (example)
