@@ -4,21 +4,22 @@ description: How To Connect With Friends
 
 # How To Connect With Friends
 
-**Only** the player that wants to be host should search a public game.
+There is two ways to play with friends or randoms, by using the server browser in main menu or shield friends.\
 
-Do no search a lobby at the same time as your friends
 
-Once the lobby has been created the other players can search for the public game, as seen in the red square wait for it to say waiting for players.
+* **First way: Lobby Browser**\
+  Using Lobby Browser (in server browser menu, FOR PUBLIC MATCHES!):\
+  If you want to host a match, go to any gamemode and press Public Match/Find Match button, for example in zombies:\
+  ![](<../.gitbook/assets/image (4).png>)\
+  If you want to join a match, then you can go to lobby browser to browse the available hosted matches\
+  <img src="../.gitbook/assets/image (2).png" alt="" data-size="original">\
+  <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">\
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 142122.png" alt=""><figcaption></figcaption></figure>
-
-### Things To Consider.
-
-* Host should preferably have an Open NAT type.
-* You can't host multiple instances of the same lobby.
-
-_Example_: you can have one lobby with Blood of the Dead, one lobby with IX, but not 2 lobbies with Blood the dead.
-
-* It can't automatically disband a lobby after use, you need to disband the lobby manually on the [webpanel](server-setup/server-webpanel.md%22mention%22).
-
-<figure><img src="../.gitbook/assets/proof players connected.png" alt=""><figcaption></figcaption></figure>
+* **Second way: Shield Friends**\
+  Using Shield Friends (FOR PRIVATE MATCHES/CUSTOM GAMES!):\
+  ![](../.gitbook/assets/image.png)\
+  \
+  First open the menu, then add your friend in the text box here (by username):\
+  ![](<../.gitbook/assets/image (1).png>)\
+  \
+  Wait for your friend to accept the friend request (he can do it in the same menu), then he can join you by right clicking on your profile in the shield friends menu. this will also create a shield party for you and the friend automatically.

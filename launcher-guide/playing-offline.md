@@ -8,8 +8,6 @@ description: How to play offline
 
 Using launcher select `Offline`
 
-
-
-<figure><img src="../.gitbook/assets/Captura de pantalla 2024-01-17 140442.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture.PNG" alt=""><figcaption></figcaption></figure>
 
 This will put you in a fully offline mode.

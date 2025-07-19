@@ -1,5 +1,7 @@
 ---
-description: Commands to start games with not enough players
+description: >-
+  Commands to start games with not enough players, most of these are already in
+  made in LUA as buttons.
 ---
 
 # Commands To Start Games

@@ -16,7 +16,7 @@ description: How to play with radmin vpn.
 2. Install Radmin VPN on the local computer.
 3. Create network: Press "Create network" button. Set Network name and Password.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. In the Project bo4`Launcher` connect the host pc to `127.0.0.1` [connecting-to-a-server.md](../launcher-guide/connecting-to-a-server.md "mention")
 
@@ -29,7 +29,7 @@ description: How to play with radmin vpn.
 3. Launch the software and press "Join network" button. Enter Network name and Password in the dialog box
 4. Enter network name and password you created.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. In the Project bo4`Launcher` connect the remote pc to the host ip address displayed in Radmin.
 

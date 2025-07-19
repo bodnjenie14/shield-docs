@@ -12,17 +12,15 @@ Can be found [here.](https://github.com/project-bo4/shield-development/)
 
 ## Launcher Download
 
-Download [here](https://github.com/bodnjenie14/Project\_-bo4\_Launcher/releases/).
-
-
+Download [here](https://github.com/bodnjenie14/Project_-bo4_Launcher/releases/).
 
 Launcher Source Code
 
-Can be found [here.](https://github.com/bodnjenie14/Project\_-bo4\_Launcher)
+Can be found [here.](https://github.com/bodnjenie14/Project_-bo4_Launcher)
 
 ***
 
-## Demonware Server Emulator
+## Demonware Server Emulator (OUTDATED)
 
 Download DwServer [here](https://github.com/bodnjenie14/DWUPDATES/releases) .
 
